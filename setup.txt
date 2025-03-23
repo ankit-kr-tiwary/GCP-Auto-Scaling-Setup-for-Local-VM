@@ -1,0 +1,22 @@
+1. gcloud auth activate-service-account --key-file=/home/vboxuser/key.json
+
+2. project id : weighty-smoke-434207-a4 
+
+3.REVOKE : gcloud auth revoke
+ 
+4. gcloud config set project <your_project_id>
+
+5. gcloud config list project
+
+6. gcloud compute instances list
+
+6': Ifconfig 
+
+7. 192.168.1.5  | Grafana = http://192.168.1.5:3000
+
+8. prometheus : http://192.168.1.5:9090
+
+9. gcloud version
+
+10. ps aux
+

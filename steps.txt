@@ -1,0 +1,9 @@
+1. Login to GCP console and create the service account 
+2. Go to IAM setting and provide the necessary details
+2'. Download the key and show where you have saved 
+3. Go to Local VM and setup the SDK
+4. Connect to GCP CLI 
+5. show the script which you have explain it 
+6. run the script and show the new VM instances created on GCP 
+7.SHow the Grafana setup for monitoring the CPU ultisation 
+8. VM is up and running which shows the instances has been been deployed . 
